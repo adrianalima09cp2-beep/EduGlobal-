@@ -1,5 +1,7 @@
 # EduGlobal 🌍📚
 
+[![GitHub Stars](https://img.shields.io/github/stars/adrianalima09cp2-beep/EduGlobal-?style=social)](https://github.com/adrianalima09cp2-beep/EduGlobal-)
+[![Issues Abertas](https://img.shields.io/github/issues/adrianalima09cp2-beep/EduGlobal-)](https://github.com/adrianalima09cp2-beep/EduGlobal-/issues)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 ![Contribuidores](https://img.shields.io/github/contributors/adrianalima09cp2-beep/EduGlobal-)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
@@ -9,7 +11,7 @@ Bem-vindo ao **EduGlobal**! Um projeto educacional destinado a alunos de **todos
 
 ## 📖 Sobre o Projeto
 
-Conteúdos destinados a educação para diminuir a desigualdade na educação não apenas no Brasil, mas no mundo. Aqui você encontrará materiais de aprendizado, recursos educacionais e informações que vão te ajudar a estudar e crescer como pessoa.
+Conteúdos destinados a educação para diminuir a desigualdade na educação não apenas no Brasil, mas no mundo. Aqui você encontrará materiais de aprendizado, recursos educacionais e informações confiáveis para apoiar sua jornada educacional.
 
 ## 🎯 Para Quem?
 
@@ -101,7 +103,7 @@ cat historia-do-brasil/README.md
 O que vem por aí para o EduGlobal:
 
 ### 📚 Expansão de Disciplinas
-- [ ] História do Brasil (em desenvolvimento)
+- [x] História do Brasil (iniciado)
 - [ ] Literatura Brasileira
 - [ ] Educação Cívica e Direitos Humanos
 - [ ] Física
@@ -148,12 +150,45 @@ O que vem por aí para o EduGlobal:
 
 Alunos, professores e educadores podem contribuir! 
 
+Veja o guia completo em [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes.
+
+**Passos rápidos:**
 1. Faça um fork do projeto
 2. Crie uma branch para sua contribuição (`git checkout -b feature/MinhaContribuicao`)
 3. Adicione seus conteúdos, exercícios ou correções
-4. Commit suas mudanças (`git commit -m 'Adiciona novo conteúdo'`)
+4. Commit suas mudanças (`git commit -m 'docs: add novo conteúdo'`)
 5. Push para a branch (`git push origin feature/MinhaContribuicao`)
 6. Abra um Pull Request
+
+---
+
+## 🤝 Venha Contribuir!
+
+Estamos buscando pessoas motivadas para expandir este projeto! Se você:
+
+- ✨ É educador ou professor
+- 📖 Gosta de escrever e criar conteúdo
+- 🔍 Conhece bem uma disciplina específica
+- 💡 Tem ideias para melhorar a educação
+- 🌍 Quer ajudar a democratizar o acesso à educação
+
+**Você é exatamente o que procuramos!**
+
+### 🎯 Convite Especial para Colaboradores
+
+Se você se identifica com a missão do EduGlobal, considere:
+
+- **Sugerir novos tópicos** - Abra uma [issue](https://github.com/adrianalima09cp2-beep/EduGlobal-/issues) com seus temas favoritos
+- **Corrigir e melhorar** - Encontrou um erro? Ajude-nos a consertar!
+- **Criar novo conteúdo** - Escreva sobre seus conhecimentos e compartilhe com a comunidade
+- **Traduzir conteúdos** - Ajude a expandir para outras línguas
+- **Compartilhar experiências** - Conte nos [Discussions](https://github.com/adrianalima09cp2-beep/EduGlobal-/discussions) como você usa o projeto
+
+### 🏆 Reconhecimento
+
+Todos os contribuidores são creditados no projeto! Sua contribuição, por menor que seja, faz diferença na vida de milhares de estudantes.
+
+---
 
 ## 🌟 Nossos Objetivos
 
@@ -166,9 +201,10 @@ Alunos, professores e educadores podem contribuir!
 ## 📞 Dúvidas?
 
 Se você tem dúvidas ou sugestões sobre o projeto, sinta-se à vontade para:
-- Abrir uma issue (problema ou dúvida)
-- Fazer contribuições
-- Compartilhar feedback
+- 💬 Abrir uma [issue](https://github.com/adrianalima09cp2-beep/EduGlobal-/issues) (problema ou dúvida)
+- 🤝 Fazer contribuições via Pull Request
+- 💭 Participar das [Discussions](https://github.com/adrianalima09cp2-beep/EduGlobal-/discussions)
+- 📧 Compartilhar feedback
 
 ## 📜 Licença
 
